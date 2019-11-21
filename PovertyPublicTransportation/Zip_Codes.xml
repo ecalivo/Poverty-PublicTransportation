@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<descript>
+<abstract>Feature class derived from Tiger line shapefile of 2010 census ZCTA for Santa Clara County and geographic identifier table, G001. Some attribute names may be truncated when exporting as shapefile due to 10 character limitation of shapefile attribute names. ZCTA's that are partially within Santa Clara County have been excluded from this dataset.</abstract>
+<purpose>Census ZCTA (zip code tabulation area) geometry for all ZCTA's which are completely within Santa Clara County from the 2010 Census Tiger shapefiles.</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>sccgov</themekey>
+<themekey>Santa Clara County</themekey>
+<themekey>Santa Clara</themekey>
+<themekey>Census</themekey>
+<themekey>ZCTA</themekey>
+<themekey>zip code</themekey>
+<themekey>zipcode</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>THE GIS DATA IS PROVIDED &amp;quot;AS IS&amp;quot;. THE COUNTY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OR MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE ACCURACY, COMPLETENESS, VALUE, QUALITY, VALIDITY, MERCHANTABILITY, SUITABILITY, AND CONDITION, OF THE GIS DATA. USER'S OF COUNTY'S GIS DATA ARE HEREBY NOTIFIED THAT CURRENT PUBLIC PRIMARY INFORMATION SOURCES SHOULD BE CONSULTED FOR VERIFICATION OF THE DATA AND INFORMATION CONTAINED HEREIN. SINCE THE GIS DATA IS DYNAMIC, IT WILL BY ITS NATURE BE INCONSISTENT WITH THE OFFICIAL COUNTY DATA. ANY USE OF COUNTY'S GIS DATA WITHOUT CONSULTING OFFICIAL PUBLIC RECORDS FOR VERIFICATION IS DONE EXCLUSIVELY AT THE RISK OF THE PARTY MAKING SUCH USE.</useconst>
+<datacred>United States Census Bureau, 2010</datacred>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

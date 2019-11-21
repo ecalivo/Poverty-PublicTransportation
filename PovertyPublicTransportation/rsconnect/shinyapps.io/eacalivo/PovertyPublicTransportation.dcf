@@ -1,0 +1,12 @@
+name: PovertyPublicTransportation
+title: PovertyPublicTransportation
+username:
+account: eacalivo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1504989
+bundleId: 2606100
+url: https://eacalivo.shinyapps.io/PovertyPublicTransportation/
+when: 1574311932.10258
+asMultiple: FALSE
+asStatic: FALSE
